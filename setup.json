@@ -1,0 +1,202 @@
+{
+
+    "tab_title" : "CLAY",
+    "footer": [
+            {
+                "title" : "Contactos",
+                "lines" : [
+                    "[Contact us](joao.seco@fct.unl.pt)",
+                    "[Department](http://www.di.fct.unl.pt/)",
+                    "[Nova Lincs ![link](/img/nova-lincs.png)](http://nova-lincs.di.fct.unl.pt/)"
+                ]
+            }
+        ],
+    "home": {
+        "header": "About",
+        "title": "About the Project",
+        "body": [
+            "Modern software systems are subject to increasingly demanding requirements. Web based apps are being massively deployed: everyone with access to a computational device (e.g., a smartphone) is a critical consumer of software products. While software end-users and service / product providers are becoming aggressively intolerant to any lack of flexibility or reliability of systems, developers struggle to keep up with development and maintenance costs, in a context of fierce competition.",
+            "The CLAY project will develop a new programming model and development environment for the interactive construction and evolution of trustworthy software systems “as live artifacts”, following a disruptive vision that raises exciting challenges to programming language design, incremental verification, and usability.",
+            "Expected results include a new theory and language based model for verified program control/state plasticity, incremental verification for selected key properties (life cycle conformance, invariants, security), usability patterns for improving the developer experience and, crucially, a webbased, fully working, live development system framework for applications in a specific useful domain (data management)."
+        ]
+    },
+    "header": {
+        "text": [
+            "# CLAY",
+            "An Environment for Live Construction of Trustworthy Software",
+            "PTDC/EEICTP/4293/2014 ([NOVA LINCS](https://nova-lincs.di.fct.unl.pt/project/234))"
+        ],
+        "image": "/img/quino-al-110318-unsplash.jpg"
+    },
+    "pages": [
+        {
+            "header": "Team",
+            "title": "Project Team",
+            "path": "team",
+            "type": "team",
+            "members": [
+                {
+                    "name": "Carla Ferreira",
+                    "picture": "img/carla.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt/person/43",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associate Professor"
+                },
+                {
+                    "name": "Carlos Damásio",
+                    "picture": "img/damasio.jpg",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt/person/184",
+                    "title": "Associate Professor"
+                },
+                {
+                    "name": "Jácome Cunha",
+                    "picture": "img/jacome.png",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt/person/3740",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Assistant Professor"
+                },
+                {
+                    "name": "João Costa Seco (PI)",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "picture": "img/seco.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt/person/26",
+                    "title": "Assistant Professor"
+                },
+                {
+                    "name": "Luís Caires",
+                    "picture": "img/caires.jpg",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt/person/6",
+                    "title": "Professor"
+                },
+                {
+                    "name": "Nuno Preguiça",
+                    "picture": "img/nuno.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt/person/31",
+                    "title": "Associate professor",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "note": "31/12/2018"
+                },
+                {
+                    "name": "Teresa Romão",
+                    "picture": "img/teresa.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt/person/39",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Assistant Professor"
+                },
+                {
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "name": "Eduardo Geraldo",
+                    "picture": "img/egeraldo.jpg",
+                    "title": "PhD Student"
+                },
+                {
+                    "name": "Mário Pereira",
+                    "picture": "img/mpereira.jpg",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "PostDoc Researcher"
+                },
+                {
+                    "name": "Luís Carvalho",
+                    "picture": "img/lcarvalho.jpg",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "PhD Student"
+                },
+                {
+                    "name": "Álvaro Santos",
+                    "picture": "img/asantos.jpg",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Gil Alves",
+                    "picture": "img/galves.jpg",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Luísa Lourenço",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "picture": "img/llourenco.jpg",
+                    "title": "PhD Student",
+                    "note": "Until: 31/03/2016"
+                },
+                {
+                    "name": "Miguel Lourenço",
+                    "title": "PhD Student",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "note": "Until: 31-12-2017"
+                },
+                {
+                    "name": "João Mateus",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student",
+                    "note": "Until: 30/11/2015"
+                },
+                {
+                    "name": "Tiago Lopes",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student",
+                    "note": "Until: 31/07/2017"
+                },
+                {
+                    "name": "Ramūnas Gutkovas",
+                    "title": "PostDoc Researcher",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "note": "Until: 31-12-2017"
+                },
+                {
+                    "name": "Nuno Martins",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "PostDoc Researcher",
+                    "note": "Until: 31/07/2017"
+                }
+            ]
+        },
+        {
+            "type": "pub",
+            "path": "/publications",
+            "header": "Publications",
+            "title": "Project Publications",
+            "bib": "/bibliography.bib"
+        },
+        {
+            "type": "images",
+            "path": "/prototypes",
+            "header": "Prototypes",
+            "title": "Prototypes",
+            "paragraphs": [
+                {
+                    "text": [
+                        "## [LiveWeb 1.0](http://ctp.di.fct.unl.pt/LiveWeb)",
+                        "Web applications development is usually based on a three layer architecture that divides applications into client interface, business logic and database layers. In practice, applications are developed in heterogeneous programming language environments, and in particular, the application logic is specified using general purpose programming languages to define computations and specialized query languages to access information stored in databases. The two language paradigms have several mismatches making the integration between layers on of the most important aspects of web application development.",
+                        "This prototype focus on bridging the gap between layers, avoiding the usage of dialects and programming conventions in layers interaction, and communication code not subject to effective mechanical verifications."
+                    ],
+                    "image" : "/img/liveweb_ide.png"
+                },
+                {
+                    "text" : [
+                        "## [Live Programming Environment 1.0](http://live-programming.herokuapp.com/about)",
+                        "This prototype uses a typed, incremental, and reactive programming language tailored for the development of data-centric web applications. The language supports the development of web applications in small increments, with each increment being statically verified to prevent any kind of unsafe evolution of the applications. The language provides the necessary operations to define every aspect of a web application, from the HTML user interface, to the data schema and business logic. The language implicitly grants reactive properties to the applications, maintaining code, data, and interface always in sync between them."
+                    ],
+                    "image": "img/liveprog.png"
+                }
+            ]
+        },
+        {
+            "type" : "text",
+            "path" : "/positions",
+            "header" : "Positions",
+            "title" : "Open Positions",
+            "body" : [
+                "### Two Pos-Doctoral Fellowships (one year, renewable) at NOVA LINCS/FCT NOVA and the Collaborative Laboratory with our industrial partner OutSystems.",
+                "The research programme takes place within the Software Systems research group of NOVA LINCS in collaboration with R&D members of OutSystems, a Portuguese company that is responsible for a globally known low-code platform for rapid application development.",
+                "Two post doctoral positions are available under the scope of our project CLAY-An Environment for live Construction of Trustworthy Software, and the collaborative laboratory between NOVALINCS and Outsystems that focuses on the development new programming models and tools.",
+                "The goal is to design new programming models, associated verification techniques, and/or programming environments to support the live construction of trustworthy applications in the web/cloud domain. Possible areas of focus include the development of behavioural type systems for safely updating structured states and processes, reasoning techniques for distributed data management, certified runtime infrastructures, domain specific logics and algorithms for contracts and policies. This collaborative effort seeks to run the extra mile to transpose theoretical results into a well establish development product like the OutSystems platform.",
+                "To apply for this position, the candidate is required to have a strong computer science or informatics background at the PhD level, and a proven publication track record in one or more of the following areas: principles of programming languages, programming language design and implementation, software verification, and program analysis. We welcome candidates with a background on principles and theory (programming models, type systems, verification, semantics), or systems implementation (language design, runtime systems, compilers). We expect research results to be published at premier programming languages and systems conferences and journals, and give preference to candidates that are motivated to collaborate with industrial partners.",
+                "If you are interested please contact João Costa Seco (joao.seco@fct.unl.pt) until June 30, 2018"
+            ]
+        }
+    ]
+}
