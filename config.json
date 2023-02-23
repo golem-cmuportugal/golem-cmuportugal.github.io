@@ -3,56 +3,21 @@
             {
                 "title" : "Contacts",
                 "lines" : [
-                    "[E-mail](Joao.Seco@fct.unl.pt)",
-                    "Office: p2/13, Ed II (Mon 14:00-15:00)",
-                    "Phone: +351212948536 (ext. 10752)",
-                    "Fax: +351212948541"
+                    "[Contact us](joao.seco@fct.unl.pt)",
+                    "[Department](http://www.di.fct.unl.pt/)",
+                    "[Nova Lincs ![link](/img/nova-lincs.png)](http://nova-lincs.di.fct.unl.pt/)"
                 ]
             }
         ],
     "home": {
-        "header": "Bio",
-        "title": "About Me",
+        "header": "About",
+        "title": "Project Description",
         "body": [
-            "## Bio",
-            "Associate Professor at the Computer Science Department of the FCT/Universidade Nova de Lisboa.",
-            "Researcher at [NOVA-LINCS](http://nova-lincs.di.fct.unl.pt/person/26) (NOVA-Laboratory for Computer Science and Informatics).",
-            "Member of the PLASTIC Research Team", 
-            "Orcid | Researcher Id: D-2035-2010",
-            "MC Substitute: EUTypes COST Action IC15123 (EU website, website)",
-            "Member: BETTY COST Action IC1201 (EU website, website)",
-            "Visiting Scolar at ITU Copenhagen (May June 2016)",
-            "Researcher at CITI (Center of Computer Science and Information Technology). (until 2014)",
-            "Visiting Scholar at Carnegie Mellon University (Fall 2012).",
-            "Member of ICTI (CMU-Portugal) (until 2013)",
-            "## Research Interests",
-            "Programming Languages and Type Systems.",
-            "Type based concurrency and aliasing control.", 
-            "Spatial-Behavioural Type Logics and Type Systems.",
-            "Modularity / Reconfiguration / Component Programming Languages.",
-            "## ACM Topics",
-            "D. Software",
-            "D.3 PROGRAMMING LANGUAGES",
-            "F. Theory of Computation",
-            "F.3 LOGICS AND MEANINGS OF PROGRAMS",
-            "## Projects",
-            "CLAY (PTDC/EEI­CTP/4293/2014 - 2016 - ...) Running.",
-            "Flex-Agile (with OutSystems - Aug 2008 - ... ) Running.",
-            "Certified Interfaces (Carnegie Mellon|Portugal NGN44-2009-2012) Closed.",
-            "StreamLine (PTDC/EIA-CCO/104583/2008 - 2010-2012) Closed, PI.",
-            "IP Sensoria (EU IST FP6 - 2005-2009) Closed.",
-            "ComponentGlue (Microsoft Research Grant 2002-73) Closed.",
-            "DataBricks (SAPIENS 33924/2000-2003) Closed.",
-            "## Prototypes",
-            "ComponentJ Compiler ",
-            "LiveWeb (for Interfaces)",
-            "## Conference-Committee organization",
-            "ICALP'05",
-            "Concur'07 ",
-            "DisCoTec'09",
-            "## Program Commitees",
-            "OOPS@SAC 2013 - 2016",
-            "SOFT-PT@INForum "
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet porttitor felis. Etiam tristique malesuada lectus vel ullamcorper. Morbi commodo in nulla et tempor. Suspendisse venenatis felis sit amet rutrum molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec condimentum lectus non lorem bibendum pretium. Integer dictum suscipit nisi, nec luctus arcu interdum a. Nulla et lacinia purus. Pellentesque pulvinar nisl et nulla ornare, ac fringilla justo sodales. Pellentesque nec felis ut urna venenatis lobortis. Etiam vel finibus turpis. Pellentesque at nisi consequat, viverra purus vel, congue magna. Etiam gravida enim in tortor pretium, eget tempor leo rhoncus. Nam id odio urna.",
+            "Cras viverra lorem nec ante viverra laoreet. Donec pellentesque felis leo, at lacinia erat finibus et. Etiam viverra diam quis imperdiet pretium. Quisque sagittis et lorem eget egestas. Maecenas non nulla eu libero feugiat vestibulum. Praesent tristique rutrum dui, sit amet posuere est fermentum eget. Mauris libero lectus, egestas vitae ex quis, euismod tincidunt orci. Donec et accumsan velit, eget pellentesque ipsum. Sed maximus ante non mauris lacinia efficitur. Vivamus convallis vehicula dolor ac porta. Cras scelerisque posuere ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet varius leo. Donec commodo eros nec odio placerat, vel rhoncus mauris dignissim.",
+            "Nullam et malesuada mi, dapibus mattis urna. Fusce est risus, sodales et eleifend ut, tincidunt et purus. Nullam a aliquam tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam auctor magna facilisis congue tempor. Nullam dolor purus, placerat quis augue non, scelerisque rhoncus nibh. Quisque nec purus tincidunt, pharetra nunc sit amet, feugiat justo. Mauris volutpat felis quis laoreet consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            "Praesent egestas lacus urna. Ut ultricies nunc enim, vel dictum turpis dignissim a. Fusce lacus ipsum, aliquet a dictum id, lobortis egestas est. Nullam congue accumsan erat in luctus. Maecenas ac congue neque. Curabitur eget quam volutpat, interdum massa imperdiet, pellentesque nibh. Suspendisse a dignissim quam.",
+            "Nullam vel massa eget justo consectetur viverra. Etiam laoreet imperdiet risus eget egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam mi mauris, pulvinar eget leo consequat, malesuada sollicitudin risus. Cras luctus, leo venenatis euismod viverra, tortor tellus dapibus sapien, volutpat consectetur ipsum nibh eu turpis. Suspendisse gravida, ex a tempor efficitur, lacus ipsum molestie sem, id aliquet lacus quam sit amet enim. Phasellus nec lorem sed nulla consequat blandit. Cras vel justo vel urna laoreet dictum. Sed quis velit in lorem malesuada luctus sed a nunc. Pellentesque ac lacus velit. Pellentesque convallis justo sed maximus euismod."
         ]
     },
     "header": {
@@ -67,35 +32,8 @@
             "type": "pub",
             "path": "/publications",
             "header": "Publications",
-            "title": "Publications",
+            "title": "Project Publications",
             "bib": "/golem-pubs.bib"
-        },
-        {
-            "type": "images",
-            "path": "/classes",
-            "header": "Classes",
-            "title": "Casses",
-            "paragraphs": [
-                {
-                    "text": [
-                        "## Programming Languages and Environments",
-                        "Semester:  Spring",
-                        "Offered:  2014",
-                        "Official Page"
-                    ],
-                    "image" : ""
-                },
-                {
-                    "text" : [
-                        "## Interpretation and Compilation of Programming Languages (IC-11160)",
-                        "Semester:  Spring",
-                        "Offered:  2014",
-                        "Official Info",
-                        "This course aims at teaching solid knowledge and concepts in the design and implementation of programming languages. This goal is reached by the systematic study of the syntax, semantics and pragmatics of programming language."
-                    ],
-                    "image": ""
-                }
-            ]
         }
     ]
 }
