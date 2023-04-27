@@ -34,69 +34,79 @@
             "type": "team",
             "members": [
                 {
-                    "name": "João Costa Seco",
-                    "picture": "img/team/jcs.jpg",
+                    "name": "Bernardo Toninho",
+                    "picture": "img/team/btoninho.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
-                    "title": "Project Coordinator@NOVA"
+                    "title": "Assistant Professor"
                 },
                 {
                     "name": "Carla Ferreira",
                     "picture": "img/team/carlaferreira.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor"
                 },
                 {
-                    "name": "Bernardo Toninho",
-                    "picture": "img/team/btoninho.jpg",
+                    "name": "Dora Melo",
+                    "picture": "img/team/dora.jpg",
+                    "title": "Assistant Professor"
+                },
+                {
+                    "name": "Irene Pimenta Rodrigues",
+                    "picture": "img/team/irene.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor"
+                },
+                {
+                    "name": "João Costa Seco",
+                    "picture": "img/team/jcs.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor, Project Coordinator@NOVA"
                 },
                 {
                     "name": "Luís Caires",
                     "picture": "img/team/lcaires.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
-                },
-                {
-                    "name": "Luís Carvalho",
-                    "picture": "img/team/lcarvalho.jpg",
-                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Full Professor"
                 },
                 {
                     "name": "Eduardo Geraldo",
                     "picture": "img/team/egeraldo.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "PhD Student"
                 },
                 {
-                    "name": "Sara Almeida",
-                    "picture": "img/team/saraalmeida.jpg",
+                    "name": "Luís Carvalho",
+                    "picture": "img/team/lcarvalho.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "PhD Student"
                 },
                 {
                     "name": "Joana Parreira",
                     "picture": "img/team/joanaparreira.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor"
                 },
                 {
                     "name": "João Silva",
                     "picture": "img/team/joaosilva.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student"
                 },
                 {
-                    "name": "Irene Rodrigues",
-                    "picture": "img/team/irene.jpg",
+                    "name": "Sara Almeida",
+                    "picture": "img/team/saraalmeida.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
-                    "affiliation_image": "/img/nova-lincs.png"
-                },
-                {
-                    "name": "Dora Melo",
-                    "picture": "img/team/dora.jpg"
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student"
                 }
             ]
         },
