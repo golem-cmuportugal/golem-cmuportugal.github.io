@@ -34,6 +34,22 @@
             "header": "Publications",
             "title": "Project Publications",
             "bib": "/golem-pubs.bib"
-        }
+        },
+        {
+            "path": "/team",
+            "header": "Team",
+            "title": "The project team",
+            "type": "team",
+            "members": [
+                {
+                    "name": "João Costa Seco",
+                    "picture": "A",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "NOVA LINCS",
+                    "title": "Project Coordinator"
+                },
+                ...
+            ]
+        },
     ]
 }
