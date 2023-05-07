@@ -115,7 +115,16 @@
             "path": "/publications",
             "header": "Publications",
             "title": "Project Publications",
-            "bib": "/golem-pubs.bib"
+            "sections" : [
+                {
+                    "title": "Reports",
+                    "bib": "/golem-pubs.bib"
+                },
+                {
+                    "title": "Reports",
+                    "bib": "/golem-pubs.bib"
+                }
+            ]
         }
     ]
 }
