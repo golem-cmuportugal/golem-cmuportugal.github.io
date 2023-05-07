@@ -13,11 +13,10 @@
         "header": "About",
         "title": "Project Description",
         "body": [
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet porttitor felis. Etiam tristique malesuada lectus vel ullamcorper. Morbi commodo in nulla et tempor. Suspendisse venenatis felis sit amet rutrum molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec condimentum lectus non lorem bibendum pretium. Integer dictum suscipit nisi, nec luctus arcu interdum a. Nulla et lacinia purus. Pellentesque pulvinar nisl et nulla ornare, ac fringilla justo sodales. Pellentesque nec felis ut urna venenatis lobortis. Etiam vel finibus turpis. Pellentesque at nisi consequat, viverra purus vel, congue magna. Etiam gravida enim in tortor pretium, eget tempor leo rhoncus. Nam id odio urna.",
-            "Cras viverra lorem nec ante viverra laoreet. Donec pellentesque felis leo, at lacinia erat finibus et. Etiam viverra diam quis imperdiet pretium. Quisque sagittis et lorem eget egestas. Maecenas non nulla eu libero feugiat vestibulum. Praesent tristique rutrum dui, sit amet posuere est fermentum eget. Mauris libero lectus, egestas vitae ex quis, euismod tincidunt orci. Donec et accumsan velit, eget pellentesque ipsum. Sed maximus ante non mauris lacinia efficitur. Vivamus convallis vehicula dolor ac porta. Cras scelerisque posuere ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet varius leo. Donec commodo eros nec odio placerat, vel rhoncus mauris dignissim.",
-            "Nullam et malesuada mi, dapibus mattis urna. Fusce est risus, sodales et eleifend ut, tincidunt et purus. Nullam a aliquam tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam auctor magna facilisis congue tempor. Nullam dolor purus, placerat quis augue non, scelerisque rhoncus nibh. Quisque nec purus tincidunt, pharetra nunc sit amet, feugiat justo. Mauris volutpat felis quis laoreet consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-            "Praesent egestas lacus urna. Ut ultricies nunc enim, vel dictum turpis dignissim a. Fusce lacus ipsum, aliquet a dictum id, lobortis egestas est. Nullam congue accumsan erat in luctus. Maecenas ac congue neque. Curabitur eget quam volutpat, interdum massa imperdiet, pellentesque nibh. Suspendisse a dignissim quam.",
-            "Nullam vel massa eget justo consectetur viverra. Etiam laoreet imperdiet risus eget egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam mi mauris, pulvinar eget leo consequat, malesuada sollicitudin risus. Cras luctus, leo venenatis euismod viverra, tortor tellus dapibus sapien, volutpat consectetur ipsum nibh eu turpis. Suspendisse gravida, ex a tempor efficitur, lacus ipsum molestie sem, id aliquet lacus quam sit amet enim. Phasellus nec lorem sed nulla consequat blandit. Cras vel justo vel urna laoreet dictum. Sed quis velit in lorem malesuada luctus sed a nunc. Pellentesque ac lacus velit. Pellentesque convallis justo sed maximus euismod."
+            "Ref: LISBOA-01-0247-FEDER-045917",
+            "The ultimate goal of GOLEM is to find a sustainable solution for the increasing need for complex enterprise digital systems and the lack of people with enough technical skills for creating them. We believe that the only realistic long term solution to this problem is to automate insofar as possible the creation of such systems. In doing so, not only the creation of enterprise software is sped up, but also, and more importantly, people with non-programming backgrounds are granted the opportunity to participate in the digitization effort.",
+            "In the GOLEM project, new software development approaches will be explored, building on what we believe to be the state of the art of rapid and easy enterprise software development: low-code platforms, in particular, the world leading OutSystems development platform. Like all other low-code solutions on the market, even though the OutSystems platform enables great productivity and short development cycles through visual development and deployment automation, it still requires knowledge about programming and software architectures that only experienced software developers have.",
+            "The GOLEM project aims to enable non-programmers to develop enterprise-grade applications by evolving the OutSystems low-code development model to a new fully integrated and interactive development experience in which programming is automated, based on natural language specifications, examples given by the developer, point and click demonstrations, or sketches. The output of that automation is not only code but also a live preview of the application's behavior that allows the developer to understand the effects of his actions."
         ]
     },
     "header": {
@@ -28,6 +27,89 @@
         "image": "/img/GOLEMbanner.png"
     },
     "pages": [
+        {
+            "path": "/team",
+            "header": "Team",
+            "title": "The project team",
+            "type": "team",
+            "members": [
+                {
+                    "name": "Bernardo Toninho",
+                    "picture": "img/team/btoninho.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Assistant Professor"
+                },
+                {
+                    "name": "Carla Ferreira",
+                    "picture": "img/team/carlaferreira.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor"
+                },
+                {
+                    "name": "Dora Melo",
+                    "picture": "img/team/dora.jpg",
+                    "title": "Assistant Professor"
+                },
+                {
+                    "name": "Irene Pimenta Rodrigues",
+                    "picture": "img/team/irene.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor"
+                },
+                {
+                    "name": "João Costa Seco",
+                    "picture": "img/team/jcs.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor, Project Coordinator@NOVA"
+                },
+                {
+                    "name": "Luís Caires",
+                    "picture": "img/team/lcaires.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Full Professor"
+                },
+                {
+                    "name": "Eduardo Geraldo",
+                    "picture": "img/team/egeraldo.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "PhD Student"
+                },
+                {
+                    "name": "Luís Carvalho",
+                    "picture": "img/team/lcarvalho.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "PhD Student"
+                },
+                {
+                    "name": "Joana Parreira",
+                    "picture": "img/team/joanaparreira.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "Associated Professor"
+                },
+                {
+                    "name": "João Silva",
+                    "picture": "img/team/joaosilva.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Sara Almeida",
+                    "picture": "img/team/saraalmeida.jpg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student"
+                }
+            ]
+        },
         {
             "type": "pub",
             "path": "/publications",
