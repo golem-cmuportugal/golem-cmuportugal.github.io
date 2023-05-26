@@ -117,11 +117,7 @@
             "title": "Project Publications",
             "sections" : [
                 {
-                    "title": "Reports",
-                    "bib": "/golem-pubs.bib"
-                },
-                {
-                    "title": "Reports",
+                    "title": "Conference and Journal Papers",
                     "bib": "/golem-pubs.bib"
                 }
             ]
