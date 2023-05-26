@@ -35,7 +35,7 @@
             "members": [
                 {
                     "name": "Bernardo Toninho",
-                    "picture": "img/team/btoninho.jpg",
+                    "picture": "http://ctp.di.fct.unl.pt/~btoninho/images/me.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
                     "title": "Assistant Professor"
@@ -45,7 +45,7 @@
                     "picture": "img/team/carlaferreira.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
-                    "title": "Associated Professor"
+                    "title": "Associate Professor"
                 },
                 {
                     "name": "Dora Melo",
@@ -57,14 +57,14 @@
                     "picture": "img/team/irene.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
-                    "title": "Associated Professor"
+                    "title": "Associate Professor"
                 },
                 {
                     "name": "João Costa Seco",
                     "picture": "img/team/jcs.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
-                    "title": "Associated Professor, Project Coordinator@NOVA"
+                    "title": "Associate Professor, Project Coordinator@NOVA"
                 },
                 {
                     "name": "Luís Caires",
@@ -92,18 +92,18 @@
                     "picture": "img/team/joanaparreira.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
-                    "title": "Associated Professor"
+                    "title": "MSc Student"
                 },
                 {
                     "name": "João Silva",
-                    "picture": "img/team/joaosilva.jpg",
+                    "picture": "img/team/jsilva.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
                     "title": "MSc Student"
                 },
                 {
                     "name": "Sara Almeida",
-                    "picture": "img/team/saraalmeida.jpg",
+                    "picture": "img/team/sara.jpeg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
                     "title": "MSc Student"
@@ -115,7 +115,16 @@
             "path": "/publications",
             "header": "Publications",
             "title": "Project Publications",
-            "bib": "/golem-pubs.bib"
+            "sections" : [
+                {
+                    "title": "Reports",
+                    "bib": "/golem-pubs.bib"
+                },
+                {
+                    "title": "Reports",
+                    "bib": "/golem-pubs.bib"
+                }
+            ]
         }
     ]
 }
