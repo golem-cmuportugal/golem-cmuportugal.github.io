@@ -119,6 +119,11 @@
                 {
                     "title": "Conference and Journal Papers",
                     "bib": "/golem-pubs.bib"
+            },
+
+                {
+                    "title": "Master's Theses",
+                    "bib": "/golem-master-thesis.bib"
                 }
             ]
         }
