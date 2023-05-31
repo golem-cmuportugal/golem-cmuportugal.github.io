@@ -35,7 +35,7 @@
             "members": [
                 {
                     "name": "Bernardo Toninho",
-                    "picture": "http://ctp.di.fct.unl.pt/~btoninho/images/me.jpg",
+                    "picture": "img/team/bernardo.jpeg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
                     "title": "Assistant Professor"
@@ -49,7 +49,7 @@
                 },
                 {
                     "name": "Dora Melo",
-                    "picture": "img/team/dora.jpg",
+                    "picture": "img/team/dora.jpeg",
                     "title": "Assistant Professor"
                 },
                 {
