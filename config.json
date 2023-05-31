@@ -35,7 +35,7 @@
             "members": [
                 {
                     "name": "Bernardo Toninho",
-                    "picture": "img/team/bernardo.jpeg",
+                    "picture": "img/team/btoninho.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
                     "title": "Assistant Professor"
@@ -50,6 +50,8 @@
                 {
                     "name": "Dora Melo",
                     "picture": "img/team/dora.jpeg",
+                    "affiliation": "http://nova-lincs.di.fct.unl.pt",
+                    "affiliation_image": "/img/nova-lincs.png",
                     "title": "Assistant Professor"
                 },
                 {
@@ -119,6 +121,11 @@
                 {
                     "title": "Conference and Journal Papers",
                     "bib": "/golem-pubs.bib"
+            },
+
+                {
+                    "title": "Master's Theses",
+                    "bib": "/golem-master-thesis.bib"
                 }
             ]
         }
