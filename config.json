@@ -59,7 +59,7 @@
                     "picture": "img/team/ineslynce.png",
                     "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
                     "affiliation_image": "/img/INESC-ID.png",
-                    "title": "Full Professor"
+                    "title": "Full Professor, Project Coordinator@INESC-ID"
                 },
                 {
                     "name": "Irene Pimenta Rodrigues",
@@ -118,6 +118,13 @@
                     "title": "PhD Student"
                 },
                 {
+                    "name": "João Cortes",
+                    "picture": "",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "PhD Student"
+                },
+                {
                     "name": "Luís Carvalho",
                     "picture": "img/team/lcarvalho.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
@@ -125,8 +132,43 @@
                     "title": "PhD Student"
                 },
                 {
+                    "name": "Pedro Orvalho",
+                    "picture": "img/team/porvalho.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "PhD Student"
+                },
+                {
+                    "name": "Afonso Ribeiro",
+                    "picture": "",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
+                },
+                {
                     "name": "Andreia Pereira",
                     "picture": "img/team/apereira.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Catarina Coelho",
+                    "picture": "",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Henrique Guerra",
+                    "picture": "img/team/hguerra.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Joana Coutinho",
+                    "picture": "",
                     "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
                     "affiliation_image": "/img/INESC-ID.png",
                     "title": "MSc Student"
@@ -146,10 +188,38 @@
                     "title": "MSc Student"
                 },
                 {
+                    "name": "Pedro Esteves",
+                    "picture": "",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Pedro Nunes",
+                    "picture": "img/team/pnunes.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Ricardo Fernandes",
+                    "picture": "img/team/rfernandes.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
+                },
+                {
                     "name": "Sara Almeida",
                     "picture": "img/team/sara.jpeg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
+                    "title": "MSc Student"
+                },
+                {
+                    "name": "Viviana Bernardo",
+                    "picture": "",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
                     "title": "MSc Student"
                 }
             ]
