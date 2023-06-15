@@ -55,6 +55,13 @@
                     "title": "Assistant Professor"
                 },
                 {
+                    "name": "Inês Lynce",
+                    "picture": "img/team/ineslynce.png",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "Full Professor"
+                },
+                {
                     "name": "Irene Pimenta Rodrigues",
                     "picture": "img/team/irene.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
@@ -69,11 +76,39 @@
                     "title": "Associate Professor, Project Coordinator@NOVA"
                 },
                 {
+                    "name": "João Ferreira",
+                    "picture": "img/team/jferreira.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "Assistant Professor"
+                },
+                {
                     "name": "Luís Caires",
                     "picture": "img/team/lcaires.jpg",
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
                     "title": "Full Professor"
+                },
+                {
+                    "name": "Pedro T. Monteiro",
+                    "picture": "img/team/pmonteiro.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "Associate Professor"
+                },
+                {
+                    "name": "Vasco Manquinho",
+                    "picture": "img/team/vmanquinho.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "Associate Professor"
+                },
+                {
+                    "name": "Filipe Gouveia",
+                    "picture": "img/team/fgouveia.png",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "Researcher"
                 },
                 {
                     "name": "Eduardo Geraldo",
@@ -88,6 +123,13 @@
                     "affiliation": "http://nova-lincs.di.fct.unl.pt",
                     "affiliation_image": "/img/nova-lincs.png",
                     "title": "PhD Student"
+                },
+                {
+                    "name": "Andreia Pereira",
+                    "picture": "img/team/apereira.jpeg",
+                    "affiliation": "https://www.inesc-id.pt/research-areas/automated-reasoning-and-software-reliability/",
+                    "affiliation_image": "/img/INESC-ID.png",
+                    "title": "MSc Student"
                 },
                 {
                     "name": "Joana Parreira",
